@@ -15,5 +15,4 @@ This repository contains the full catalog of stellar atmospheric parameters deri
 - Projected rotational velocity (v sin i)
   
 ## Citation
-If you use this catalog, please cite:
-[Tu tesis / artículo aquí]
+If you use this catalog, please cite: 
