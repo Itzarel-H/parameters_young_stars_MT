@@ -1,6 +1,6 @@
 #Stellar parameters of young stars
 
-This repository contains the full catalog of stellar atmospheric parameters derived using the TONALLI and the full catalog of chemical abundances derived whit BACCUS code for young stars in star-forming regions in the solar neighborhood observed by APOGEE-2.
+This repository contains the full catalog of stellar atmospheric parameters derived using the TONALLI and the full catalog of chemical abundances derived whit BACCHUS code for young stars in star-forming regions in the solar neighborhood observed by APOGEE-2.
 
 ## Contents
 - stellar_parameters_by_tonalli.csv: Full table of stellar parameters
