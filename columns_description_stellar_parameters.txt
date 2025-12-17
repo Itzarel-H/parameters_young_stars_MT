@@ -1,0 +1,27 @@
+Column descriptions
+
+OBJ     : 2MASS source identification number
+RA      : Right Ascension (J2000)
+DEC     : Declination (J2000)
+REGION  : Name of the star-forming region
+
+t25     : Effective temperature at the 25th percentile
+t50     : Effective temperature at the 50th percentile (median)
+t75     : Effective temperature at the 75th percentile
+
+g25     : Surface gravity at the 25th percentile
+g50     : Surface gravity at the 50th percentile (median)
+g75     : Surface gravity at the 75th percentile
+
+m25     : Global metallicity at the 25th percentile
+m50     : Global metallicity at the 50th percentile (median)
+m75     : Global metallicity at the 75th percentile
+
+a25     : Alpha-element abundance at the 25th percentile
+a50     : Alpha-element abundance at the 50th percentile (median)
+a75     : Alpha-element abundance at the 75th percentile
+
+v25     : Projected rotational velocity (v sin i) at the 25th percentile
+v50     : Projected rotational velocity (v sin i) at the 50th percentile (median)
+v75     : Projected rotational velocity (v sin i) at the 75th percentile
+
