@@ -5,6 +5,8 @@ This repository contains the full catalog of stellar atmospheric parameters deri
 ## Contents
 - stellar_parameters_by_tonalli.csv: Full table of stellar parameters
 - columns_description_stellar_parameters.txt: Description of each column of stellar parameters by tonalli
+- chemical_abundances_by_bacchus.csv: Full table of chemical abundances of Fe, Mg, Si, K, C and Ti
+- columns_description_chemical_abundances.txt: Description of each column of the abudances element by element
 - README.md: This file
 
 ## Parameters included
@@ -13,6 +15,12 @@ This repository contains the full catalog of stellar atmospheric parameters deri
 - Metallicity ([Fe/H])
 - Alpha-element abundance ([α/Fe])
 - Projected rotational velocity (v sin i)
+- [Fe/H]
+- [Mg/H]
+- [Si/H]
+- [Ti/H]
+- [K/H]
+- [C/H]
   
 ## Citation
 If you use this catalog, please cite: 
