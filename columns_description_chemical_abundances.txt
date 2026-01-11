@@ -4,6 +4,8 @@ APOGEE_ID: identification number
 
 region: Star-forming region or stellar population to which the star belongs
 
+# all abundances correspond to median values 
+
 abun_Fe_log: Logarithmic iron abundance relative to hydrogen, [Fe/H]
 MAD_Fe_log: Median Absolute Deviation (MAD) of the logarithmic iron abundance, used as an estimate of the abundance uncertainty
 abun_Fe_sol: Iron abundance relative to the solar value, [Fe/H]⊙
