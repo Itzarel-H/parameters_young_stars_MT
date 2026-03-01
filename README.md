@@ -18,9 +18,9 @@ This repository contains the full catalog of stellar atmospheric parameters deri
 - [Fe/H]
 - [Mg/H]
 - [Si/H]
-- [Ti/H]
+- [Ca/H]
 - [K/H]
-- [C/H]
+- [Cr/H]
   
 ## Citation
 If you use this catalog, please cite: 
