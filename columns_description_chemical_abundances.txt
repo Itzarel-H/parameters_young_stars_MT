@@ -2,40 +2,43 @@ Column descriptions
 
 APOGEE_ID: identification number
 
-region: Star-forming region or stellar population to which the star belongs
+REGION: Star-forming region or stellar population to which the star belongs
 
-line_Fe: Lines used to calculate abundance of Fe. Each number is separated by a dot 
 abun_Fe_log: Logarithmic iron abundance relative to hydrogen, [Fe/H]
 MAD_Fe_log: Median Absolute Deviation (MAD) of the logarithmic iron abundance, used as an estimate of the abundance uncertainty
 abun_Fe_sol: Iron abundance relative to the solar value, [Fe/H]⊙
 MAD_Fe_sol: Median Absolute Deviation (MAD) of the iron abundance relative to the solar value
 
-line_C: Lines used to calculate abundance of C. Each number is separated by a dot
-abun_C_log: Logarithmic carbon abundance relative to hydrogen, [C/H]
-MAD_C_log: Median Absolute Deviation (MAD) of the logarithmic carbon abundance, used as an estimate of the abundance uncertainty
-abun_C_sol: Carbon abundance relative to the solar value, [C/H]⊙
-MAD_C_sol: Median Absolute Deviation (MAD) of the carbon abundance relative to the solar value
 
-line_K: Lines used to calculate abundance of K. Each number is separated by a dot
+abun_Al_log: Logarithmic titanium abundance relative to hydrogen, [Al/H]
+MAD_Al_log: Median Absolute Deviation (MAD) of the logarithmic titanium abundance, used as an estimate of the abundance uncertainty
+abun_Al_sol: Titanium abundance relative to the solar value, [Al/H]⊙
+MAD_Al_sol: Median Absolute Deviation (MAD) of the titanium abundance relative to the solar value
+
+abun_Ca_log: Logarithmic carbon abundance relative to hydrogen, [Ca/H]
+MAD_Ca_log: Median Absolute Deviation (MAD) of the logarithmic carbon abundance, used as an estimate of the abundance uncertainty
+abun_Ca_sol: Carbon abundance relative to the solar value, [Ca/H]⊙
+MAD_Ca_sol: Median Absolute Deviation (MAD) of the carbon abundance relative to the solar value
+
+abun_Cr_log: Logarithmic carbon abundance relative to hydrogen, [Cr/H]
+MAD_Cr_log: Median Absolute Deviation (MAD) of the logarithmic carbon abundance, used as an estimate of the abundance uncertainty
+abun_Cr_sol: Carbon abundance relative to the solar value, [Cr/H]⊙
+MAD_Cr_sol: Median Absolute Deviation (MAD) of the carbon abundance relative to the solar value
+
 abun_K_log: Logarithmic potassium abundance relative to hydrogen, [K/H]
 MAD_K_log: Median Absolute Deviation (MAD) of the logarithmic potassium abundance, used as an estimate of the abundance uncertainty
 abun_K_sol: Potassium abundance relative to the solar value, [K/H]⊙
 MAD_K_sol: Median Absolute Deviation (MAD) of the potassium abundance relative to the solar value
 
-line_Mg: Lines used to calculate abundance of Mg. Each number is separated by a dot
+
 abun_Mg_log: Logarithmic magnesium abundance relative to hydrogen, [Mg/H]
 MAD_Mg_log: Median Absolute Deviation (MAD) of the logarithmic magnesium abundance, used as an estimate of the abundance uncertainty
 abun_Mg_sol: Magnesium abundance relative to the solar value, [Mg/H]⊙
 MAD_Mg_sol: Median Absolute Deviation (MAD) of the magnesium abundance relative to the solar value
 
-line_Si: Lines used to calculate abundance of Si. Each number is separated by a dot
 abun_Si_log: Logarithmic silicon abundance relative to hydrogen, [Si/H]
 MAD_Si_log: Median Absolute Deviation (MAD) of the logarithmic silicon abundance, used as an estimate of the abundance uncertainty
 abun_Si_sol: Silicon abundance relative to the solar value, [Si/H]⊙
 MAD_Si_sol: Median Absolute Deviation (MAD) of the silicon abundance relative to the solar value
 
-line_Ti: Lines used to calculate abundance of Ti. Each number is separated by a dot
-abun_Ti_log: Logarithmic titanium abundance relative to hydrogen, [Ti/H]
-MAD_Ti_log: Median Absolute Deviation (MAD) of the logarithmic titanium abundance, used as an estimate of the abundance uncertainty
-abun_Ti_sol: Titanium abundance relative to the solar value, [Ti/H]⊙
-MAD_Ti_sol: Median Absolute Deviation (MAD) of the titanium abundance relative to the solar value
+
